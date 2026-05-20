@@ -1,0 +1,98 @@
+ssh-keygen
+cat $HOME/.ssh/*.pub
+ssh-keygen
+cat $HOME/.shh/*.pub
+cat
+cat $HOME/.ssh/*.pub
+sudo dnf install -y virtual-guest-additions
+cd home
+cd liveuser's Home
+cd mkdir repogit
+cd
+mkdir repogit
+cd T
+cd repogit/
+pwd
+is -l
+Is -I
+ls -l
+git@github.com:Fruii/TP_AySO.git
+cd repogit
+git@github.com:Fruii/TP_AySO.git
+de home
+cd home
+cd 
+cat /etc/os-realese
+yum install git
+cd repogit
+git@github.com:Fruii/TP_AySO.git
+cd
+yum install git
+--assumeno
+--downloadonly
+--downloadonly yum install git
+yum install git --assumeno
+git@github.com:Fruii/TP_AySO.git
+git clone git@github.com:Fruii/TP_AySO.git
+cd repogit
+git clone git@github.com:Fruii/TP_AySO.git
+gitclonsudo dnf install -y git
+cd
+sudo dnf install -y git
+cd repogit
+git clone git@github.com:Fruii/TP_AySO.git
+git clone https://github.com/Fruii/TP_AySO.git
+sudo dnf install -y --refresh git
+cd repogit
+git clone https://github.com/Fruii/TP_AySO.git
+cd
+sudo dnf install -y --refresh git
+cd repogit
+git clone https://github.com/Fruii/TP_AySO.git
+cd
+git --version
+cd repogit
+git clone git@github.com:Fruii/TP_AySO.git
+cd repogit
+cd TP_AySO
+pwd
+ls -l
+cat /etc/passwd
+man grep
+grep
+man grep
+grep UBUNTU /etc/passwd
+grep ununtu /etc/passwd
+grep UBUNTU /etc/passwd
+grep -i UBUNTU /etc/passwd
+grep -i Ubuntu /ewtc/passwd
+grep -i Ubuntu /etc/passwd
+grep -i Ubuntu /etc/passwd | awk -F: '{print $2}'>datos_usuario.txt
+echo "Usuario=$(whoami)" >> datos_usuario.txt
+cat datos_usuario.txt
+git config --global user.email "lnlietzgg@gmail.com"
+grep "model name"/proc/cpuinfo | head -n1 > info_pc.txt
+cd repogit/TP_AySO
+grep "model name" /proc/cpuinfo | head -n1 >info_pc.txt
+cat info_pc.txt
+git add info_pc.txt
+git commit -m "feat: Añadiendo informacion de CPU"
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t: -k7 > lista_ordenada
+fit add lista_ordenada
+git commit -m "ADD: Lista de usuarios ordenada"
+cat << EQF >>README.md 
+Alumno: Lucas Nahuel Lietz
+Comision: 116
+Turno Mañana
+EOF
+EQF
+
+git add README.md
+git commit -m "docs Añadiendo informacion del alumno al README"
+mkdir -p $HOME/TP1/{arquitectura/Clase{1,2,3,4,5},so/Clase{1,2,3,4,5,6}}
+sudo dnf install -y tree
+tree $HOME/TP1
+echo 'mkdir -p $HOME/TP1/{arquitectura/Clase{1,2,3,4,5},so/Clase{1,2,3,4,5,6}}' > script_dir.sh chmod +x script_dir.sh
+git add script_dir.sh 
+git commit -m "ADD Añadiendo script"
+history -a
